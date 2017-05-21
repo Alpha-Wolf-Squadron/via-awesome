@@ -7,9 +7,14 @@
   "dependencies": {
     "babel-runtime": "^6.20.0",
     "meteor-node-stubs": "~0.2.4",
+    "pixi.js": "^4.5.2",
+    "prop-types": "^15.5.10",
     "react": "^15.5.4",
     "react-addons-pure-render-mixin": "^15.5.2",
+    "react-anime": "^0.3.4",
     "react-dom": "^15.5.4",
+    "react-mounter": "^1.2.0",
+    "react-pixi": "^0.9.8",
     "react-prop-types": "^0.4.0"
   }
 }
